@@ -1,0 +1,38 @@
+ULB name right,AAH name right,ULB name left,AAH name left,description
+sternoclavicular,RA_sternoclavicular,sternoclavicular_l,LA_sternoclavicular,anatomical arm sternoclavicular articulation
+unrotscap,RA_unrotscap,unrotscap_l,LA_unrotscap,anatomical scapula rotation joint
+acromioclavicular,RA_acromioclavicular,acromioclavicular_l,LA_acromioclavicular,anatomical acromioclavicular joint
+unrothum,RA_unrothum,unrothum_l,LA_unrothum,anatomical humerus rotation joint
+shoulder0,RA_shoulder0,shoulder0_l,LA_shoulder0,controlled shoulder anterior elevation
+shoulder1,RA_shoulder1,shoulder1_l,LA_shoulder1,controlled shoulder lateral elevation
+shoulder2,RA_shoulder2,shoulder2_l,LA_shoulder2,controlled humerus rotation
+elbow,RA1H_RA2U,elbow_l,LA1H_LA2U,elbow joint
+radioulnar,RA2U_RA2R,radioulnar_l,LA2U_LA2R,radioulnar articulation
+radiocarpal,RA2R_RA3L,radiocarpal_l,LA2R_LA3L,radius lunate joint representing a joint between forearm and proximal carpal bones
+lun_scaph,RA3L_RA3S_W,lun_scaph_l,LA3L_LA3S_W,fixed lunate scaphoid joint
+lun_pis,RA3S_RA3P_W,lun_pis_l,LA3S_LA3P_W,fixed scaphoid pisiform joint
+lun_triq,RA3L_RA3Q_W,lun_triq_l,LA3L_LA3Q_W,fixed lunate triquetrum joint
+proximal_distal,RA3L_RA3C,proximal_distal_l,LA3L_LA3C,lunate capitate joint representing a joint between proximal and distal rows of carpal bones
+cap_trpzm,RA3C_RA3T_W,cap_trpzm_l,LA3C_LA3T_W,fixed capitate trapezium joint
+cap_trpzd,RA3C_RA3O_W,cap_trpzd_l,LA3C_LA3O_W,fixed capitate trapezoid joint
+cap_ham,RA3C_RA3H_W,cap_ham_l,LA3C_LA3H_W,fixed capitate hamate joint
+CMC1a,RA3T_RA4M1_PHANT,CMC1a_l,LA3T_LA4M1_PHANT,thumb carpometacarpal joint housing flexion and rotation
+CMC1b,RA4M1_PHANT_RA4M1,CMC1b_l,LA4M1_PHANT_LA4M1,thumb carpometacarpal joint housing adduction
+CMC2,RA3C_RA4M2_W,CMC2_l,LA3C_LA4M2_W,fixed index finger carpometacarpal joint
+CMC3,RA3C_RA4M3_W,CMC3_l,LA3C_LA4M3_W,fixed middle finger carpometacarpal joint
+CMC4,RA3C_RA4M4_W,CMC4_l,LA3C_LA4M4_W,ring finger carpometacarpal joint
+CMC5,RA3C_RA4M5_W,CMC5_l,LA3C_LA4M5_W,pinky finger carpometacarpal joint
+MCP,RA4M1_RA5P1,MCP_l,LA4M1_LA5P1,thumb metacarpophalangeal joint
+IP,RA5P1_RA6D1,IP_l,LA5P1_LA6D1,thumb interphalangeal joint
+2MCP,RA4M2_RA5P2,2MCP_l,LA4M2_LA5P2,index finger metacarpophalangeal joint
+2prox-midph,RA5P2_RA6M2,2prox-midph_l,LA5P2_LA6M2,index finger proximal interphalangeal joint
+2mid-distph,RA6M2_RA7D2,2mid-distph_l,LA6M2_LA7D2,index finger distal interphalangeal joint
+3MCP,RA4M3_RA5P3,3MCP_l,LA4M3_LA5P3,middle finger metacarpophalangeal joint
+3prox-midph,RA5P3_RA6M3,3prox-midph_l,LA5P3_LA6M3,middle finger proximal interphalangeal joint
+3mid-distph,RA6M3_RA7D3,3mid-distph_l,LA6M3_LA7D3,middle finger distal interphalangeal joint
+4MCP,RA4M4_RA5P4,4MCP_l,LA4M4_LA5P4,ring finger metacarpophalangeal joint
+4prox-midph,RA5P4_RA6M4,4prox-midph_l,LA5P4_LA6M4,ring finger proximal interphalangeal joint
+4mid-distph,RA6M4_RA7D4,4mid-distph_l,LA6M4_LA7D4,ring finger distal interphalangeal joint
+5MCP,RA4M5_RA5P5,5MCP_l,LA4M5_LA5P5,pinky finger metacarpophalangeal joint
+5prox-midph,RA5P5_RA6M5,5prox-midph_l,LA5P5_LA6M5,pinky finger proximal interphalangeal joint
+5mid-distph,RA6M5_RA7D5,5mid-distph_l,LA6M5_LA7D5,pinky finger distal interphalangeal joint

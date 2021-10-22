@@ -1,0 +1,42 @@
+ULB name right,AAH name right,ULB name left,AAH name left,description,short description
+sternoclavicular_r2,ra_sternoclavicular_r2_d,sternoclavicular_r2_l,la_sternoclavicular_r2_d,anatomical dependent DOF,
+sternoclavicular_r3,ra_sternoclavicular_r3_d,sternoclavicular_r3_l,la_sternoclavicular_r3_d,anatomical dependent DOF,
+unrotscap_r3,ra_unrotscap_r3_d,unrotscap_r3_l,la_unrotscap_r3_d,anatomical dependent DOF,
+unrotscap_r2,ra_unrotscap_r2_d,unrotscap_r2_l,la_unrotscap_r2_d,anatomical dependent DOF,
+acromioclavicular_r2,ra_acromioclavicular_r2_d,acromioclavicular_r2_l,la_acromioclavicular_r2_d,anatomical dependent DOF,
+acromioclavicular_r3,ra_acromioclavicular_r3_d,acromioclavicular_r3_l,la_acromioclavicular_r3_d,anatomical dependent DOF,
+acromioclavicular_r1,ra_acromioclavicular_r1_d,acromioclavicular_r1_l,la_acromioclavicular_r1_d,anatomical dependent DOF,
+unrothum_r1,ra_unrothum_r1_d,unrothum_r1_l,la_unrothum_r1_d,anatomical dependent DOF,
+unrothum_r3,ra_unrothum_r3_d,unrothum_r3_l,la_unrothum_r3_d,anatomical dependent DOF,
+unrothum_r2,ra_unrothum_r2_d,unrothum_r2_l,la_unrothum_r2_d,anatomical dependent DOF,
+elv_angle,ra_sh_elv_angle,elv_angle_l,la_sh_elv_angle,shoulder posterior-anterior direction of elevation,shoulder elevation angle
+shoulder_elv,ra_sh_elv,shoulder_elv_l,la_sh_elv,shoulder adduction-abduction (lateral elevation),shoulder ad-ab
+shoulder1_r2,ra_shoulder1_r2_d,shoulder1_r2_l,la_shoulder1_r2_d,anatomical dependent DOF,
+shoulder_rot,ra_sh_rot,shoulder_rot_l,la_sh_rot,shoulder external-internal rotation,shoulder ext-int rotation
+elbow_flexion,ra_el_e_f,elbow_flexion_l,la_el_e_f,elbow extension-flexion,elbow e/f
+pro_sup,ra_wr_sup_pro,pro_sup_l,la_wr_sup_pro,wrist supination-pronation,wrist s/p
+deviation,ra_wr_rd_ud,deviation_l,la_wr_rd_ud,wrist radial-ulnar deviation,wrist r/u dev
+flexion,ra_wr_e_f,flexion_l,la_wr_e_f,wrist extension-flexion,wrist e/f
+proximal_distal_r1,ra_proximal_distal_r1_d,proximal_distal_r1_l,la_proximal_distal_r1_d,anatomical dependent DOF,
+proximal_distal_r3,ra_proximal_distal_r3_d,proximal_distal_r3_l,la_proximal_distal_r3_d,anatomical dependent DOF,
+1CMC_flex,ra_cmc1_f_e,1CMC_flex_l,la_cmc1_f_e,thumb carpometacarpal flexion-extension,CMC1 f/e!!
+,ra_cmc1_opp,,la_cmc1_opp,thumb carpometacarpal opposition NEW,CMC1 opp
+1CMC_abd,ra_cmc1_ad_ab,1CMC_abd_l,la_cmc1_ad_ab,thumb carpometacarpal adduction-abduction,CMC1 ad/ab
+1mcp_flexion,ra_mcp1_e_f,1mcp_flexion_l,la_mcp1_e_f,thumb metacarpophalangeal extension-flexion,MCP1 e/f
+1ip_flexion,ra_ip1_e_f,1ip_flexion_l,la_ip1_e_f,thumb interphalangeal extension-flexion,IP1 e/f
+2mcp_flexion,ra_mcp2_e_f,2mcp_flexion_l,la_mcp2_e_f,index finger metacarpophalangeal extension-flexion,MCP2 e/f
+2mcp_abduction,ra_mcp2_ad_ab,2mcp_abduction_l,la_mcp2_ad_ab,index finger metacarpophalangeal adduction-abduction,MCP2 ad/ab
+2pm_flexion,ra_pip2_e_f,2pm_flexion_l,la_pip2_e_f,index finger proximal interphalangeal extension-flexion,PIP2 fe/ff
+2md_flexion,ra_dip2_e_f,2md_flexion_l,la_dip2_e_f,index finger distal interphalangeal extension-flexion,DIP2 e/f
+,ra_mcp3_e_f,,la_mcp3_e_f,middle finger metacarpophalangeal extension-flexion NEW,MCP3 e/f
+,ra_mcp3_rd_ud,,la_mcp3_rd_ud,middle finger metacarpophalangeal radial-ulnar NEW deviation,MCP3 r/u dev
+,ra_pip3_e_f,,la_pip3_e_f,middle finger proximal interphalangeal extension-flexion NEW,PIP3 e/f
+,ra_dip3_e_f,,la_dip3_e_f,middle finger distal interphalangeal extension-flexion NEW,DIP3 e/f
+,ra_mcp4_e_f,,la_mcp4_e_f,ring finger metacarpophalangeal extension-flexion NEW,MCP4 e/f
+,ra_mcp4_ad_ab,,la_mcp4_ad_ab,ring finger metacarpophalangeal adduction-abduction NEW,MCP4 ad/ab
+,ra_pip4_e_f,,la_pip4_e_f,ring finger proximal interphalangeal extension-flexion NEW,PIP4 e/f
+,ra_dip4_e_f,,la_dip4_e_f,ring finger distal interphalangeal extension-flexion NEW,DIP4 e/f
+,ra_mcp5_e_f,,la_mcp5_e_f,pinky finger metacarpophalangeal extension-flexion NEW,MCP5 e/f
+,ra_mcp5_ad_ab,,la_mcp5_ad_ab,pinky finger metacarpophalangeal adduction-abduction NEW,MCP5 ad/ab
+,ra_pip5_e_f,,la_pip5_e_f,pinky finger proximal interphalangeal extension-flexion NEW,PIP5 e/f
+,ra_dip5_e_f,,la_dip5_e_f,pinky finger distal interphalangeal extension-flexion NEW,DIP5 e/f

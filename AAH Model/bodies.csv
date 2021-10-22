@@ -1,0 +1,38 @@
+ULB name right,AAH name right,ULB name left,AAH name left,description
+clavicle,RA_clavicle,clavicle_l,LA_clavicle,clavicle
+clavphant,RA_clavphant,clavphant_l,LA_clavphant,phantom clavicle body for complex movement
+scapula,RA_scapula,scapula_l,LA_scapula,scapula
+scapphant,RA_scapphant,scapphant_l,LA_scapphant,phantom scapula body for complex movement
+humphant,RA1H_PHANT,humphant_l,LA1H_PHANT,phantom humerus body
+humphant1,RA1H_PHANT1,humphant1_l,LA1H_PHANT1,another phantom humerus body
+humerus,RA1H,humerus_l,LA1H,humerus
+ulna,RA2U,ulna_l,LA2U,ulna
+radius,RA2R,radius_l,LA2R,radius
+lunate,RA3L,lunate_l,LA3L,lunate carpal bone
+scaphoid,RA3S,scaphoid_l,LA3S,scaphoid carpal bone
+pisiform,RA3P,pisiform_l,LA3P,pisiform carpal bone
+triquetrum,RA3Q,triquetrum_l,LA3Q,triquetrum carpal bone
+capitate,RA3C,capitate_l,LA3C,capitate carpal bone
+trapezium,RA3T,trapezium_l,LA3T,trapezium carpal bone
+trapezoid,RA3O,trapezoid_l,LA3O,trapezoid carpal bone
+hamate,RA3H,hamate_l,LA3H,hamate carpal bone
+firstmc1,RA4M1_PHANT,firstmc1_l,LA4M1_PHANT,phantom thumb metacarpal
+firstmc,RA4M1,firstmc_l,LA4M1,thumb metacarpal
+secondmc,RA4M2,secondmc_l,LA4M2,index finger metacarpal
+thirdmc,RA4M3,thirdmc_l,LA4M3,middle finger metacarpal
+fourthmc,RA4M4,fourthmc_l,LA4M4,ring finger metacarpal
+fifthmc,RA4M5,fifthmc_l,LA4M5,pinky finger metacarpal
+proximal_thumb,RA5P1,proximal_thumb_l,LA5P1,thumb proximal phalanx
+distal_thumb,RA6D1,distal_thumb_l,LA6D1,thumb distal phalanx
+2proxph,RA5P2,2proxph_l,LA5P2,index finger proximal phalanx
+2midph,RA6M2,2midph_l,LA6M2,index finger middle phalanx
+2distph,RA7D2,2distph_l,LA7D2,index finger distal phalanx
+3proxph,RA5P3,3proxph_l,LA5P3,middle finger proximal phalanx
+3midph,RA6M3,3midph_l,LA6M3,middle finger middle phalanx
+3distph,RA7D3,3distph_l,LA7D3,middle finger distal phalanx
+4proxph,RA5P4,4proxph_l,LA5P4,ring finger proximal phalanx
+4midph,RA6M4,4midph_l,LA6M4,ring finger middle phalanx
+4distph,RA7D4,4distph_l,LA7D4,ring finger distal phalanx
+5proxph,RA5P5,5proxph_l,LA5P5,pinky finger proximal phalanx
+5midph,RA6M5,5midph_l,LA6M5,pinky finger middle phalanx
+5distph,RA7D5,5distph_l,LA7D5,pinky finger distal phalanx

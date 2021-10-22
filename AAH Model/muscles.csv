@@ -1,0 +1,51 @@
+ULB name right,AAH name right,ULB name left,AAH name left,description
+DELT1,RA_DELT1,DELT1_l,LA_DELT1,anterior deltoid
+DELT2,RA_DELT2,DELT2_l,LA_DELT2,medial deltoid
+DELT3,RA_DELT3,DELT3_l,LA_DELT3,posterior deltoid
+SUPSP,RA_SUPSP,SUPSP_l,LA_SUPSP,supraspinatus
+INFSP,RA_INFSP,INFSP_l,LA_INFSP,infraspinatus
+SUBSC,RA_SUBSC,SUBSC_l,LA_SUBSC,subscapularis
+TMIN,RA_TMIN,TMIN_l,LA_TMIN,teres minor
+TMAJ,RA_TMAJ,TMAJ_l,LA_TMAJ,teres major
+PECM1,RA_PECM1,PECM1_l,LA_PECM1,pectoralis major clavicular head
+PECM2,RA_PECM2,PECM2_l,LA_PECM2,pectoralis major superior sternocostal head
+PECM3,RA_PECM3,PECM3_l,LA_PECM3,pectoralis major inferior sternocostal head
+LAT1,RA_LAT1,LAT1_l,LA_LAT1,latissimus dorsi superior head
+LAT2,RA_LAT2,LAT2_l,LA_LAT2,latissimus dorsi middle head
+LAT3,RA_LAT3,LAT3_l,LA_LAT3,latissimus dorsi inferior head
+CORB,RA_CORB,CORB_l,LA_CORB,coracobrachialis
+TRIlong,RA_TRIlong,TRIlong_l,LA_TRIlong,triceps brachii long head
+TRIlat,RA_TRIlat,TRIlat_l,LA_TRIlat,triceps brachii lateral head
+TRImed,RA_TRImed,TRImed_l,LA_TRImed,triceps brachii medial head
+ANC,RA_ANC,ANC_l,LA_ANC,anconeus
+SUP,RA_SUP,SUP_l,LA_SUP,supinator
+BIClong,RA_BIClong,BIClong_l,LA_BIClong,biceps brachii long head
+BICshort,RA_BICshort,BICshort_l,LA_BICshort,biceps brachii short head
+BRA,RA_BRA,BRA_l,LA_BRA,brachialis
+BRD,RA_BRD,BRD_l,LA_BRD,brachioradialis
+ECRL,RA_ECRL,ECRL_l,LA_ECRL,extensor carpi radialis longus
+ECRB,RA_ECRB,ECRB_l,LA_ECRB,extensor carpi radialis brevis
+ECU,RA_ECU,ECU_l,LA_ECU,extensor carpi ulnaris
+FCR,RA_FCR,FCR_l,LA_FCR,flexor carpi radialis
+FCU,RA_FCU,FCU_l,LA_FCU,flexor carpi ulnaris
+PL,RA_PL,PL_l,LA_PL,palmaris longus
+PT,RA_PT,PT_l,LA_PT,pronator teres
+PQ,RA_PQ,PQ_l,LA_PQ,pronator quadratis
+FDSL,RA_FDS5,FDSL_l,LA_FDS5,flexor digitorum superficialis pinky finger head
+FDSR,RA_FDS4,FDSR_l,LA_FDS4,flexor digitorum superficialis ring finger head
+FDSM,RA_FDS3,FDSM_l,LA_FDS3,flexor digitorum superficialis middle finger head
+FDSI,RA_FDS2,FDSI_l,LA_FDS2,flexor digitorum superficialis index finger head
+FDPL,RA_FDP5,FDPL_l,LA_FDP5,flexor digitorum profundus pinky finger head
+FDPR,RA_FDP4,FDPR_l,LA_FDP4,flexor digitorum profundus ring finger head
+FDPM,RA_FDP3,FDPM_l,LA_FDP3,flexor digitorum profundus middle finger head
+FDPI,RA_FDP2,FDPI_l,LA_FDP2,flexor digitorum profundus index finger head
+EDCL,RA_ED5,EDCL_l,LA_ED5,extensor digitorum pinky finger head
+EDCR,RA_ED4,EDCR_l,LA_ED4,extensor digitorum ring finger head
+EDCM,RA_ED3,EDCM_l,LA_ED3,extensor digitorum middle finger head
+EDCI,RA_ED2,EDCI_l,LA_ED2,extensor digitorum index finger head
+EDM,RA_EDM,EDM_l,LA_EDM,extensor digiti minimi
+EIP,RA_EIP,EIP_l,LA_EIP,extensor indicis
+EPL,RA_EPL,EPL_l,LA_EPL,extensor pollicis longus
+EPB,RA_EPB,EPB_l,LA_EPB,extensor pollisis brevis
+FPL,RA_FPL,FPL_l,LA_FPL,flexor pollicis longus
+APL,RA_APL,APL_l,LA_APL,abductor pollicis longus
