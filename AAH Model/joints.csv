@@ -20,8 +20,8 @@ CMC1a,RA3T_RA4M1_PHANT,CMC1a_l,LA3T_LA4M1_PHANT,thumb carpometacarpal joint hous
 CMC1b,RA4M1_PHANT_RA4M1,CMC1b_l,LA4M1_PHANT_LA4M1,thumb carpometacarpal joint housing adduction
 CMC2,RA3C_RA4M2_W,CMC2_l,LA3C_LA4M2_W,fixed index finger carpometacarpal joint
 CMC3,RA3C_RA4M3_W,CMC3_l,LA3C_LA4M3_W,fixed middle finger carpometacarpal joint
-CMC4,RA3C_RA4M4_W,CMC4_l,LA3C_LA4M4_W,ring finger carpometacarpal joint
-CMC5,RA3C_RA4M5_W,CMC5_l,LA3C_LA4M5_W,pinky finger carpometacarpal joint
+CMC4,RA3C_RA4M4_W,CMC4_l,LA3C_LA4M4_W,fixed ring finger carpometacarpal joint
+CMC5,RA3C_RA4M5_W,CMC5_l,LA3C_LA4M5_W,fixed pinky finger carpometacarpal joint
 MCP,RA4M1_RA5P1,MCP_l,LA4M1_LA5P1,thumb metacarpophalangeal joint
 IP,RA5P1_RA6D1,IP_l,LA5P1_LA6D1,thumb interphalangeal joint
 2MCP,RA4M2_RA5P2,2MCP_l,LA4M2_LA5P2,index finger metacarpophalangeal joint

@@ -19,7 +19,7 @@ deviation,ra_wr_rd_ud,deviation_l,la_wr_rd_ud,wrist radial-ulnar deviation,wrist
 flexion,ra_wr_e_f,flexion_l,la_wr_e_f,wrist extension-flexion,wrist e/f
 proximal_distal_r1,ra_proximal_distal_r1_d,proximal_distal_r1_l,la_proximal_distal_r1_d,anatomical dependent DOF,
 proximal_distal_r3,ra_proximal_distal_r3_d,proximal_distal_r3_l,la_proximal_distal_r3_d,anatomical dependent DOF,
-1CMC_flex,ra_cmc1_f_e,1CMC_flex_l,la_cmc1_f_e,thumb carpometacarpal flexion-extension,CMC1 f/e!!
+1CMC_flex,ra_cmc1_f_e,1CMC_flex_l,la_cmc1_f_e,thumb carpometacarpal flexion-extension,CMC1 f/e
 ,ra_cmc1_opp,,la_cmc1_opp,thumb carpometacarpal opposition NEW,CMC1 opp
 1CMC_abd,ra_cmc1_ad_ab,1CMC_abd_l,la_cmc1_ad_ab,thumb carpometacarpal adduction-abduction,CMC1 ad/ab
 1mcp_flexion,ra_mcp1_e_f,1mcp_flexion_l,la_mcp1_e_f,thumb metacarpophalangeal extension-flexion,MCP1 e/f

@@ -1,6 +1,6 @@
 # NCams/AAH OpenSim upper limb musculoskeletal model
 
-AAH is a musculoskeletal model of human upper limb (shoulder, arm and hand) for inverse kinematics. It is based on the [ULB project](https://simtk.org/projects/ulb_project), has 35 body segments (plus 3 phantom and 22 muscle-supporting), 33 moving DOFs and 8 fixed (weld) joints. We aim to maintain a model that could be easily used by any researcher in need of calculation of upper limb inverse kinematics or muscle lengths.
+AAH is a musculoskeletal model of human upper limb (shoulder, arm and hand) for inverse kinematics. It is based on the [ULB project](https://simtk.org/projects/ulb_project), has 32 body segments (plus 3 phantom and 22 muscle-supporting), 29 moving DOFs and 10 fixed (weld) joints. We aim to maintain a model that could be easily used by any researcher in need of calculation of upper limb inverse kinematics or muscle lengths.
 
 The model is an out-of-box solution for calculation of inverse kinematics and does not include dynamic properties (e.g. inertia or mass). In the current form it is not suited for dynamic simulations in OpenSim. The muscle paths were also unchanged and contain [inconsistencies](https://www.biorxiv.org/content/10.1101/2020.05.29.124644), however it is the best available model of the hand musculature to our knowledge (for purely arm model see [MoBL-ARMS](https://simtk.org/projects/upexdyn)) . An example of the model's use can be found in the [NCams](https://github.com/CMGreenspon/NCams) project. 
 
