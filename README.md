@@ -19,14 +19,17 @@ As most researchers, we develop models when we need them. If you feel like devel
 1. Update to OpenSim 4.3.
 2. Split model into unimanual. The lower body as well as contralateral limb were removed. Left and right models are equivalent.
 3. Renaming of the objects. To simplify and improve the joint and body naming distal to the shoulder, we adopted the following schema after [Sobinov et al., 2020](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008350) and [Boots et al., 2020](https://www.biorxiv.org/content/10.1101/2020.05.29.124644). A full list of body, joint and DOF names can be found in the .csv files.
+
     i. Limb [_bodies_](AAH%20Model/bodies.csv) are named `<LIMB><DIST><BONE_LITERA><DIGIT_NUMBER>`, where:
+
         * `LIMB` corresponds to the limb where the body is located, i.e. ‘RA’ stands for ‘right arm’ (CSV files omit the R/L letters), 
         * `DIST` - approximate number of segments separating this segment from the torso in the kinematic chain (humerus - 1, forearm - 2, wrist - 3, metacarpal - 4, etc.), 
         * `BONE_LITERA` - a single letter based on the anatomical name of the bone, 
         * `DIGIT_NUMBER` - 1 thumb; 2 index; 3 middle; 4 ring; and, 5 pinky. Phalanxes are marked as P: proximal, M: middle, D: distal. 
     A few examples: RA1H - right arm humerus, LA3L - left arm lunate carpal bone, RA4M1 - first (thumb) metacarpal of the right hand, RA7d5 - distal pinky phalanx.
     ii. [_Joints_](AAH%20Model/joints.csv) are named based on the bodies they connect: `<PARENT BODY>_<CHILD_BODY>`, e.g., RA3T_RA4M1 - carpometacarpal joint of the right thumb, LA4M4_LA4P4 - metacarpophalangeal joint of the left hand. Weld (fixed) joints additionally get a `_W` postfix.
-    iii. [_DOFs_](AAH%20Model/dofs.csv) are named based on the anatomical name of the joint and the direction of movement: `<LIMB>_<JOINT>_<MIN>_<MAX>`, where: 
+    iii. [_DOFs_](AAH%20Model/dofs.csv) are named based on the anatomical name of the joint and the direction of movement: `<LIMB>_<JOINT>_<MIN>_<MAX>`, where:
+     
         * `JOINT` is the anatomical name of the joint containing this DOF, e.g., ‘wr’ is ‘wrist’. Digit joints have their identifying number: 1 thumb; 2 index; 3 middle; 4 ring; and, 5 pinky. 
         * The last two suffixes MIN and MAX indicate the anatomical direction of axis, e.g., ‘ra_wr_s_p’ indicates the range of the wrist pronation-supination DOF (negative values for the supinated postures and positive - for the pronated posture). 
         * Dependant coordinates are marked with `_d`.
