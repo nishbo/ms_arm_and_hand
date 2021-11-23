@@ -46,7 +46,9 @@ As most researchers, we develop models when we need them. If you feel like devel
 ## List of included models
 
 * [RightArmAndHand](AAH%20Model/RightArmAndHand.osim) - model of the right arm and hand.
+* [RightArmAndHand_NoMuscle](AAH%20Model/RightArmAndHand_NoMuscle.osim) - model of the right arm and hand. Currently, some muscles break OpenSim visualization when certain joints are moved (e.g. index finger DIP), even when the muscles are not displayed. Suggesting using this model until the problem is resolved.
 * [LeftArmAndHand](AAH%20Model/LeftArmAndHand.osim) - model of the left arm and hand.
+* [LeftArmAndHand_NoMuscle](AAH%20Model/LeftArmAndHand_NoMuscle.osim) - model of the left arm and hand. Currently, some muscles break OpenSim visualization when certain joints are moved (e.g. index finger DIP), even when the muscles are not displayed. Suggesting using this model until the problem is resolved.
 
 ## Contributors
 
