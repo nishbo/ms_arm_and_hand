@@ -53,5 +53,5 @@ As most researchers, we develop models when we need them. If you feel like devel
 ## Contributors
 
 - [**Anton Sobinov**](https://github.com/nishbo)
-- [**James Goodman**]()
+- [**James Goodman**](https://github.com/jmgoodman)
 - [**Russell Hardesty**]()
